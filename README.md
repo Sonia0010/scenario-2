@@ -1,1 +1,1 @@
-# scenario-2
+print ("hello this sc2")
